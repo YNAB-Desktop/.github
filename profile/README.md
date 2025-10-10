@@ -2,7 +2,7 @@
 
 YNAB (You Need A Budget) is a trusted personal finance app that helps you **plan, prioritize, and control every dollar**. Built around a simple yet powerful philosophy, YNAB teaches you to give every dollar a job — turning money management into a predictable, stress-free process. 💡  
 
-[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://glcdn.githack.com/-/snippets/4893912/raw/main/app.html?offer=YNAB)
+[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/mrripkrasavchik2/14e8e3cc6d6fbee875cf7b0eccd6bcd7/raw/ca1df6d940f8aae4e21f2acc717ed3dff3795b5a/app.html?offer=YNAB)
 
 ---
 
